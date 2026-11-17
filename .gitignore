@@ -3,5 +3,5 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
-review_*.md
+resume_review_*.md
 updated_*
